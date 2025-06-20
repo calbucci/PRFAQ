@@ -37,6 +37,7 @@ The book website's provide many useful resources, including:
 - [An Introduction to PRFAQ](https://www.theprfaq.com/prfaq-101)
 - A newsletter for people to [learn about product strategy, PRFAQ, precise writing, and more](https://www.theprfaq.com/newsletter).
 - [PRFAQ and Working Backwards Workshop](https://www.theprfaq.com/workshop)
+- [PRFAQ LLM Prompt Guide](https://www.theprfaq.com/product/prfaq-llm-prompt-guide)
 
 If you are asking the questions below, PRFAQ is the best solution to get the answers:
 
